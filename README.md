@@ -16,7 +16,11 @@ https://github.com/react-native-camera/react-native-camera/blob/master/docs/inst
 
 
 2. Insert the following lines in android/app/build.gradle:
-  ![camera-image2](https://github.com/ProgramerSalar/camer-project/assets/95423130/8fe8949c-eb28-459e-a437-985cd7312469)
+![Screenshot 2023-12-11 214520](https://github.com/ProgramerSalar/camer-project/assets/95423130/5020cf15-4b04-4612-8d41-129ca6858fff)
+
+
+
+
 
 
 3. you download this package:
